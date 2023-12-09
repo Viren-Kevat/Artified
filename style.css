@@ -75,15 +75,15 @@
 /* main contaion */
 
 .h1 {
-  background-color: #5c8374;
-  color: #040d12;
+  background-color: #393053;
+  color: #d2d8dc;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 .p {
-  background-color: #5c8374;
-  color: #040d12;
+  background-color: #393053;
+  color: #d2d8dc;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -91,7 +91,7 @@
 .main_area {
   display: flex;
   justify-content: space-evenly;
-  background-color: #93b1a6;
+  background-color:#635985;
 }
 .disc {
   color: #ffffff;
@@ -118,7 +118,7 @@
 .box {
   height: 250px;
   width: 100%;
-  background-color: #183d3d;
+  background-color: #18122b;
   margin: 10px;
   margin-top: 15px;
 }
@@ -129,7 +129,7 @@
 .end1 {
   height: auto;
   width: auto;
-  background-color: #040d12;
+  background-color: #18122b;
   color: #ffffff;
 }
 .heading {
@@ -170,7 +170,7 @@
 .end2 {
   height: 50px;
   width: auto;
-  background-color: #183d3d;
+  background-color: #443c68;
   color: #ffffff;
   display: flex;
   justify-content: start;
